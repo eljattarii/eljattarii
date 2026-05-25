@@ -30,7 +30,7 @@
 ---
 
 <p align="center">
-  <a href="mailto:ايميلك@email.com">
+  <a href="mailto:eljattari.officeil7@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
