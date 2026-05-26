@@ -2,38 +2,38 @@
 
 <img src="YOUR_BANNER_IMAGE_LINK_HERE" width="100%" />
 
-# 👋 مرحباً، أنا ANAS EL JATTARII
+# 👋 Hello, I'm ANAS EL JATTARII
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cairo&weight=700&size=28&pause=1000&color=00F7A5&center=true&vCenter=true&width=900&lines=مطور+ومهتم+بكل+ما+له+علاقة+بالتقنية;Linux+•+Python+•+AI+•+Web;أتعلم+وأبني+وأشارك+المعرفة;Welcome+To+My+GitHub+Profile" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7A5&center=true&vCenter=true&width=900&lines=Passionate+Developer+%26+Tech+Enthusiast;Linux+•+Python+•+AI+•+Web+Development;Always+Learning+New+Things;Welcome+To+My+GitHub+Profile" />
 </p>
 
 <p align="center">
-مطور شغوف بالتقنية، أركز على Linux و Python والذكاء الاصطناعي وتطوير الويب.
+Passionate about technology, Linux, Python, Artificial Intelligence, and Web Development.
 <br>
-أؤمن بأن التعلم المستمر هو الطريق لبناء حلول حقيقية ومفيدة.
+I believe continuous learning is the key to building real and impactful solutions.
 </p>
 
 </div>
 
 ---
 
-# 💻 من أنا ؟
+# 💻 About Me
 
 ```bash
 eljattarii@github:~$ whoami
 
-الاسم        : ANAS EL JATTARII
-التخصص       : Technology & Development
-المجالات     : Linux / Python / AI / Web
-الهدف        : بناء مشاريع قوية ومشاركة المعرفة
-الموقع       : المغرب 🇲🇦
-الحالة       : Always Learning...
+Name          : ANAS EL JATTARII
+Field         : Technology & Development
+Focus         : Linux / Python / AI / Web
+Goal          : Build powerful projects and share knowledge
+Location      : Morocco 🇲🇦
+Status        : Always Learning...
 ```
 
 ---
 
-# 🚀 المهارات والتقنيات
+# 🚀 Skills & Technologies
 
 <div align="center">
 
@@ -43,11 +43,11 @@ eljattarii@github:~$ whoami
 
 ---
 
-# 📊 إحصائيات GitHub
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eljattarii&show_icons=true&theme=tokyonight&hide_border=true&locale=ar"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eljattarii&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eljattarii&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -55,7 +55,7 @@ eljattarii@github:~$ whoami
 
 ---
 
-# 🔥 النشاط والمساهمات
+# 🔥 Contribution Streak
 
 <div align="center">
 
@@ -65,7 +65,7 @@ eljattarii@github:~$ whoami
 
 ---
 
-# 📈 مخطط النشاط
+# 📈 Activity Graph
 
 <div align="center">
 
@@ -75,12 +75,13 @@ eljattarii@github:~$ whoami
 
 ---
 
-# 🧠 الأدوات التي أستخدمها
+# 🧠 Tools I Use
 
 <div align="center">
 
 <table>
 <tr>
+
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"><br>Linux
 </td>
@@ -130,7 +131,7 @@ eljattarii@github:~$ whoami
 
 ---
 
-# 🤖 الذكاء الاصطناعي
+# 🤖 Artificial Intelligence
 
 <div align="center">
 
@@ -144,25 +145,26 @@ eljattarii@github:~$ whoami
 
 ---
 
-# 🚧 المشاريع
+# 🚧 Projects
 
 <div align="center">
 
-## 🚀 مشاريع قادمة قريباً...
+## 🚀 Projects Coming Soon...
 
-حالياً أعمل على تطوير مشاريع قوية في:
+Currently working on exciting projects related to:
+
 - Linux
 - Python
-- AI
+- Artificial Intelligence
 - Web Development
 
-✨ سيتم إضافة أفضل المشاريع هنا قريباً.
+✨ Best projects will be added here soon.
 
 </div>
 
 ---
 
-# 🌐 تواصل معي
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -186,27 +188,27 @@ eljattarii@github:~$ whoami
 
 ---
 
-# 🎯 أهدافي الحالية
+# 🎯 Current Goals
 
-- 📚 تعلم تقنيات جديدة
-- 🧠 التعمق في الذكاء الاصطناعي
-- 🐧 احتراف Linux
-- 🚀 بناء مشاريع قوية
-- 🌍 مشاركة المعرفة مع الآخرين
+- 📚 Learn new technologies
+- 🧠 Dive deeper into AI
+- 🐧 Master Linux
+- 🚀 Build powerful projects
+- 🌍 Share knowledge with others
 
 ---
 
-# 🧩 اقتباس
+# 🧩 Favorite Quote
 
 <div align="center">
 
-> "التعلم المستمر هو أقوى سلاح لبناء المستقبل."
+> "Continuous learning is the strongest weapon for building the future."
 
 </div>
 
 ---
 
-# 👀 عدد الزيارات
+# 👀 Profile Views
 
 <div align="center">
 
@@ -218,7 +220,7 @@ eljattarii@github:~$ whoami
 
 <div align="center">
 
-### ❤️ شكراً لزيارة حسابي
+### ❤️ Thanks for visiting my profile
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=120&section=footer"/>
 
