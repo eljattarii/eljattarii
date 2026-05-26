@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="YOUR_BANNER_IMAGE_LINK_HERE" width="100%" />
+<img src="https://github.com/eljattarii/eljattarii/blob/main/banner.PNG" width="100%" />
 
 # 👋 Hello, I'm ANAS EL JATTARII
 
