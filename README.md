@@ -64,14 +64,6 @@ Status        : Always Learning...
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eljattarii&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eljattarii&layout=compact&theme=radical)
-
-
----
-
 # 🧠 Tools I Use
 
 <div align="center">
