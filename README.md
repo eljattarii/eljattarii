@@ -64,13 +64,11 @@ Status        : Always Learning...
 
 ---
 
-# 📈 Activity Graph
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eljattarii&show_icons=true&theme=radical)
 
-<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eljattarii&layout=compact&theme=radical)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eljattarii&theme=tokyo-night&hide_border=true"/>
-
-</div>
 
 ---
 
