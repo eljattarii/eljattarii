@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/eljattarii/eljattarii/blob/main/banner.PNG" width="100%" />
 
 # 👋 Hello, I'm ANAS EL JATTARII
 
