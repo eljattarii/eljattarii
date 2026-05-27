@@ -3,9 +3,7 @@
 
 # 👋 Hello, I'm ANAS EL JATTARII
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7A5&center=true&vCenter=true&width=900&lines=Passionate+Developer+%26+Tech+Enthusiast;Linux+•+Python+•+AI+•+Web+Development;Always+Learning+New+Things;Welcome+To+My+GitHub+Profile" />
-</p>
+
 
 <p align="center">
 Passionate about technology, Linux, Python, Artificial Intelligence, and Web Development.
@@ -37,18 +35,6 @@ Status        : Always Learning...
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,linux,bash,html,css,git,github,vscode,docker" />
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eljattarii&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eljattarii&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -135,6 +121,11 @@ Status        : Always Learning...
 ---
 
 # 🚧 Projects
+
+### 🚀 My Projects
+
+**[NexusView](https://github.com/eljattarii/NexusView)** *A powerful GUI tool designed to manage scrcpy and adb with ease.*
+
 
 <div align="center">
 
