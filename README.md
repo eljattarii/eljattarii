@@ -178,26 +178,14 @@ Currently working on exciting projects related to:
 
 ---
 
-# 🧩 Favorite Quote
-
-<div align="center">
-
-> "Continuous learning is the strongest weapon for building the future."
-
-</div>
-
----
-
-# 👀 Profile Views
-
+</br>
+</br>
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=eljattarii&label=Profile+Views&color=00ffaa&style=for-the-badge"/>
 
 </div>
-
----
-
+</br>
 <div align="center">
 
 ### ❤️ Thanks for visiting my profile
