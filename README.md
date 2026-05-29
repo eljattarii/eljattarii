@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A,1E3A5F,2563EB&height=220&section=header&text=ANAS%20EL%20JATTARII&fontSize=42&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Linux%20%7C%20Python%20%7C%20AI%20%7C%20Web%20Developer&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A,1E3A5F,2563EB&height=220&section=header&text=ANAS%20EL%20JATTARI&fontSize=42&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Linux%20%7C%20Python%20%7C%20AI%20%7C%20Web%20Developer&descAlignY=58&descSize=18"/>
 
 ## 👋 Hello, I'm ANAS
 
@@ -35,7 +35,7 @@ Status        : Always Learning...
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,linux,bash,html,css,git,github,vscode,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,linux,bash,git,vscode&theme=dark" />
 
 </div>
 
