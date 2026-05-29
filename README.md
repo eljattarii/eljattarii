@@ -1,9 +1,7 @@
 <div align="center">
 
-
-# 👋 Hello, I'm ANAS
-
-
+  
+## 👋 Hello, I'm ANAS
 
 <p align="center">
 Passionate about technology, Linux, Python, Artificial Intelligence, and Web Development.
@@ -141,6 +139,13 @@ Currently working on exciting projects related to:
 ✨ Best projects will be added here soon.
 
 </div>
+
+---
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! 
+Feel free to **fork** any of the projects and submit a pull request.
+
 
 ---
 
