@@ -1,6 +1,7 @@
 <div align="center">
 
-  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A,1E3A5F,2563EB&height=220&section=header&text=ANAS%20EL%20JATTARII&fontSize=42&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Linux%20%7C%20Python%20%7C%20AI%20%7C%20Web%20Developer&descAlignY=58&descSize=18"/>
+
 ## 👋 Hello, I'm ANAS
 
 <p align="center">
@@ -9,6 +10,8 @@ Passionate about technology, Linux, Python, Artificial Intelligence, and Web Dev
 I believe continuous learning is the key to building real and impactful solutions.
 </p>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Linux+Enthusiast;Python+Developer;AI+Explorer;Always+Learning..." />
+
 </div>
 
 ---
@@ -16,7 +19,7 @@ I believe continuous learning is the key to building real and impactful solution
 # 💻 About Me
 
 ```bash
-eljattarii@github:~$ whoami
+anas@github:~$ whoami
 
 Name          : ANAS EL JATTARII
 Field         : Technology & Development
@@ -32,7 +35,19 @@ Status        : Always Learning...
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,linux,bash,html,css,git,github,vscode,docker" />
+<img src="https://skillicons.dev/icons?i=python,linux,bash,html,css,git,github,vscode,docker&theme=dark" />
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eljattarii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=E2E8F0"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eljattarii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=E2E8F0"/>
 
 </div>
 
@@ -42,7 +57,7 @@ Status        : Always Learning...
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eljattarii&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eljattarii&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=E2E8F0"/>
 
 </div>
 
@@ -56,31 +71,31 @@ Status        : Always Learning...
 <tr>
 
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"><br>Linux
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"><br><b>Linux</b>
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"><br>Python
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"><br><b>Python</b>
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"><br>HTML
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"><br><b>HTML</b>
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"><br>CSS
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"><br><b>CSS</b>
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"><br>Git
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"><br><b>Git</b>
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"><br>Docker
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"><br><b>Docker</b>
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"><br>VS Code
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"><br><b>VS Code</b>
 </td>
 
 </tr>
@@ -94,11 +109,11 @@ Status        : Always Learning...
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=60A5FA"/>
 
-<img src="https://img.shields.io/badge/Open%20Source-0A0A0A?style=for-the-badge&logo=opensourceinitiative&logoColor=green"/>
+<img src="https://img.shields.io/badge/Open%20Source-1E293B?style=for-the-badge&logo=opensourceinitiative&logoColor=93C5FD"/>
 
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnu-bash&logoColor=60A5FA"/>
 
 </div>
 
@@ -108,11 +123,11 @@ Status        : Always Learning...
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-0F172A?style=for-the-badge&logo=openai&logoColor=60A5FA"/>
 
-<img src="https://img.shields.io/badge/AI-00ff99?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-2563EB?style=for-the-badge&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-1E3A5F?style=for-the-badge&logoColor=E2E8F0"/>
 
 </div>
 
@@ -120,32 +135,43 @@ Status        : Always Learning...
 
 # 🚧 Projects
 
-### 🚀 My Projects
+## 🚀 Featured Project
 
-**[NexusView](https://github.com/eljattarii/NexusView)** *A powerful GUI tool designed to manage scrcpy and adb with ease.*
+### 🔹 NexusView
 
+> A powerful GUI tool designed to manage `scrcpy` and `adb` with ease.
 
 <div align="center">
 
-## 🚀 Projects Coming Soon...
-
-Currently working on exciting projects related to:
-
-- Linux
-- Python
-- Artificial Intelligence
-- Web Development
-
-✨ Best projects will be added here soon.
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/PyQt6-1E293B?style=for-the-badge&logo=qt&logoColor=93C5FD"/>
+<img src="https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=60A5FA"/>
 
 </div>
 
 ---
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! 
-Feel free to **fork** any of the projects and submit a pull request.
+# 🌌 Currently Exploring
 
+<div align="center">
+
+```txt
+▰ Linux Internals
+▰ Artificial Intelligence
+▰ Automation Scripts
+▰ Web Technologies
+▰ Advanced Python
+```
+
+</div>
+
+---
+
+# 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to fork projects and submit pull requests.
 
 ---
 
@@ -154,19 +180,19 @@ Feel free to **fork** any of the projects and submit a pull request.
 <div align="center">
 
 <a href="https://github.com/eljattarii">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=E2E8F0"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/eljattarii">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-1E293B?style=for-the-badge&logo=instagram&logoColor=93C5FD"/>
 </a>
 
 <a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=60A5FA"/>
 </a>
 
 </div>
@@ -183,18 +209,18 @@ Feel free to **fork** any of the projects and submit a pull request.
 
 ---
 
-</br>
-</br>
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=eljattarii&label=Profile+Views&color=00ffaa&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=eljattarii&label=Profile+Views&color=2563EB&style=for-the-badge"/>
 
 </div>
-</br>
+
+---
+
 <div align="center">
 
 ### ❤️ Thanks for visiting my profile
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A,1E3A5F,2563EB&height=120&section=footer"/>
 
 </div>
