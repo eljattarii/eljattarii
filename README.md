@@ -41,18 +41,6 @@ Status        : Always Learning...
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eljattarii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=E2E8F0"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eljattarii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=E2E8F0"/>
-
-</div>
-
----
-
 # 🔥 Contribution Streak
 
 <div align="center">
