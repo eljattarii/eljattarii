@@ -41,16 +41,6 @@ Status        : Always Learning...
 
 ---
 
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eljattarii&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=E2E8F0"/>
-
-</div>
-
----
-
 # 🧠 Tools I Use
 
 <div align="center">
@@ -78,9 +68,6 @@ Status        : Always Learning...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"><br><b>Git</b>
 </td>
 
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"><br><b>Docker</b>
-</td>
 
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"><br><b>VS Code</b>
@@ -187,23 +174,13 @@ Feel free to fork projects and submit pull requests.
 
 ---
 
-# 🎯 Current Goals
-
-- 📚 Learn new technologies
-- 🧠 Dive deeper into AI
-- 🐧 Master Linux
-- 🚀 Build powerful projects
-- 🌍 Share knowledge with others
-
----
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=eljattarii&label=Profile+Views&color=2563EB&style=for-the-badge"/>
 
 </div>
 
----
+</br>
 
 <div align="center">
 
